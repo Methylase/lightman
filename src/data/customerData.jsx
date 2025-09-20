@@ -26,31 +26,6 @@ const customerData = [
     name: 'Tunde',
     location: 'Porthacourt',
     avatar: Avater4,
-  },  
-  {
-    text: '“Lightman just makes paying for electricity simple. No stress at all”',
-    name: 'Tunde',
-    location: 'Porthacourt',
-    avatar: Avater3,
-  },
-  {
-    text: '“Lightman just makes paying for electricity simple. No stress at all”',
-    name: 'Tunde',
-    location: 'Porthacourt',
-    avatar: Avater3,
-  },
-    {
-    text: '“Lightman just makes paying for electricity simple. No stress at all”',
-    name: 'Tunde',
-    location: 'Porthacourt',
-    avatar: Avater3,
-  },
-
-  {
-    text: '“Lightman just makes paying for electricity simple. No stress at all”',
-    name: 'Tunde',
-    location: 'Porthacourt',
-    avatar: Avater3,
   },
   // ... Add other customers here
 ];
