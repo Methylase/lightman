@@ -13,7 +13,7 @@ function Footer() {
     <div className="footer">
       <div className="footer-top">
         <div className="footer-left">
-          <img src={Lightman} alt="LightmanNg" />
+          <Link to="/"><img src={Lightman} alt="LightmanNg"/></Link>
           <p>Your Fast and reliable power bill payment solution</p>
           <div className="socials">
             <a href=""><img src={Whatsapp} alt="Whatsap Link"/></a>

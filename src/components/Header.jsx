@@ -18,7 +18,8 @@ function Header() {
   return (
     <>
         <div className="top-menu">
-        <img src={Lightman} alt="LightmanNg"/>
+        <Link to="/"><img src={Lightman} alt="LightmanNg"/></Link>
+        
         <div className="menu">
             <ul className="menu-list">
                 <li><Link to="/">Home</Link></li>

@@ -10154,6 +10154,31 @@ a.text-dark:hover, a.text-dark:focus {
   
   }
 
+ /* .customers{
+    padding-left: 80px;
+    padding-right: 80px;
+    display:flex;
+    justify-content: space-between;
+    gap:32px;
+    margin-top:56px;
+    overflow: hidden;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  .customer-tab{
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    flex: 1 0 0;
+    border-radius: 10px;
+    background-color: #ffffff;
+    transition: transform 0.5s ease-in-out;
+    box-sizing: border-box;
+  
+  }*/
+
   .tab-info{
     display:flex;
     justify-content: space-between;
