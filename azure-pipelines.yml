@@ -5,7 +5,7 @@ resources:
 - repo: self
 
 variables:
-  dockerRegistryServiceConnection: 'ACR'
+  dockerRegistryServiceConnection: 'Docker2'
   imageRepository: 'lightmanng'
   containerRegistry: 'precisioncr.azurecr.io'
   dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
