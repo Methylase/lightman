@@ -10,6 +10,8 @@ export default defineConfig({
       "localhost",
       "127.0.0.1",
       "lightmanng-gahdb6dsecayd4hq.centralus-01.azurewebsites.net",
+      "www.lightmanng.com",
+      "lightmanng.com",
       // Pull host from env (e.g. when running on Azure)
     ].filter(Boolean),
   },
