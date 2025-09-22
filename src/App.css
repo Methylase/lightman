@@ -11156,6 +11156,10 @@ a.text-dark:hover, a.text-dark:focus {
   .hero-container{
     margin-left: 0;
   }
+
+  .popbox{
+    left: calc(50% - 30%);
+  }
   .footer .footer-top{
     display: grid;
     grid-template-rows: 1fr;
