@@ -1,4 +1,4 @@
-import React from 'react'
+ import React, { useEffect } from 'react';
 import  MessageQoute from '../assets/img/message-quote.svg'
 import  Envelope from '../assets/img/envelope.svg'
 import  PhoneCall from '../assets/img/phone-call.svg'
