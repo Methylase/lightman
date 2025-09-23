@@ -10,6 +10,11 @@ import  Facebook from '../assets/img/facebook.svg'
 import  Instagram from '../assets/img/instagram.svg'
 
 function ContactUs() {
+
+      useEffect(() => {
+        document.title = "LightmanNg Contact Us";
+    }, []);
+
   return (
     <div className="contact-us-container">
         <div className="contact-us-left">

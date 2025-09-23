@@ -6,6 +6,12 @@ import  OpenIcon from '../assets/img/open-icon.svg'
 import  CloseIcon from '../assets/img/close-icon.svg'
 import faqData from '../data/faqData';
 function Faq() {
+
+
+      useEffect(() => {
+        document.title = "LightmanNg FAQ";
+    }, []);
+
     const [openId, setOpenId] = useState(null);
 
     const handleToggle = (id) => {

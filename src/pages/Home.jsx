@@ -25,6 +25,11 @@ import customerData from '../data/customerData';
 
 
 function Home() {
+
+      useEffect(() => {
+        document.title = "LightmanNg Home";
+    }, []);
+
     const [popupVisible, setPopupVisible] = useState(false);
     const trackRef = useRef(null);
     const itemRefs = useRef([]);
